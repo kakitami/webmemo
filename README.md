@@ -1,4 +1,7 @@
-# webmemo
+# webmemo vol.1 HTTP編
+更新日：2018年9月20日
+
+---
 ## HTTPリクエスト、HTTPレスポンスとは
 - 一言で表すと、クライアントPCとWebサーバーの間でのやりとり
 - HTTPリクエスト
