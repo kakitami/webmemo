@@ -1,4 +1,4 @@
-# webmemo vol.1 HTTP編
+# vol.1 HTTP編
 更新日：2018年9月20日
 
 ## HTTPリクエスト、HTTPレスポンスとは
