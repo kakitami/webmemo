@@ -59,7 +59,7 @@
 - [WEPICKS!「HTTPリクエスト(エイチティーティーピーリクエスト) | IT用語」](http://wepicks.net/itglossary-request/)
 - [WEPICKS!「HTTPレスポンス(エイチティーティーピーレスポンス) | IT用語」](http://wepicks.net/itglossary-httpresponse)
 - [Qiita「HTTPメソッド(CRUD)についてまとめた」](https://qiita.com/Ryutaro/items/a9e8d18467fe3e04068e)
-- [impress「URLとURIは何が違うの？ どちらが正しい呼び方？」](https://webtan.impress.co.jp/e/2010/03/09/7539)
+- [Web担当者Forum「URLとURIは何が違うの？ どちらが正しい呼び方？」](https://webtan.impress.co.jp/e/2010/03/09/7539)
 - [デジ研「HTTPステータスコードとは？種類とそれぞれの役割について」](https://digital-marketing.jp/seo/http-status-code/)
 - [MarineRoad「知っておきたいHTTPステータスコードまとめ」](https://www.marineroad.com/staff-blog/12476.html)
 
