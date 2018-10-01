@@ -17,7 +17,7 @@
 - gitのユーザー設定
     - `git config --global user.email 'メールアドレス'`
     - `git config --global user.name '名前'`
-- gitのプロキシ設定(プロキシを使用している場合)
+- gitのプロキシ設定(プロキシを使用している場合)`
     - `git config --global http.proxy http://プロキシ名:ポート番号`
     - `git config --global https.proxy http://プロキシ名:ポート番号`
 - ユーザー設定とプロキシ設定が完了したら、`git config --list`で正しく登録されているか確認
@@ -42,4 +42,4 @@
     - Ctrl+B：編集するファイルを選ぶ
 - VSCodeでターミナルを開く方法は[CTRL]+@
 - コマンドで作業を行うときは、必ず、その作業を実行したい場所にいることが必要
-    - だから、Pullを行うときは `cd [ディレクトリ名]`から行う必要がある    
+    - だから、Pullを行うときは `cd [ディレクトリ名]`から行う必要がある      
