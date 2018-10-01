@@ -23,4 +23,5 @@
 
 ## 参照サイト
 - [IDCFrontier クラウド・データセンター用語集「『クラウドコンピューティング』カテゴリの用語一覧」](https://www.idcf.jp/words/cate_cloud.html)
-- [クラウドエース　コラム　「知っておきたいIaaS,PaaS,SaaSの違い」](https://www.cloud-ace.jp/report/detail01/) 
+- [クラウドエース　コラム　「知っておきたいIaaS,PaaS,SaaSの違い」](https://www.cloud-ace.jp/report/detail01/)
+あああ
